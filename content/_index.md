@@ -63,7 +63,7 @@ sections:
           date_end: '2022-6-30'
           description: Majoring in Internet of Things Engineering, my usual research interests are related to artificial intelligence.
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
