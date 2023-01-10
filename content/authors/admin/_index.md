@@ -18,7 +18,7 @@ role: Student of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: China University Of Petroleum
+  - name: China University Of Petroleum(UPC)
     url: https://www.upc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,22 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:1015327941@qq.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Jasper0420
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +65,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1015327941@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shaofeng Liang is a graduate of the School of Computer Science and Technology, China University of Petroleum (East China), majoring in Internet of Things Engineering. His research interests include hyperspectral image classification, fire recognition, reinforcement learning, etc. In addition, he is also a blogger with nearly 20,000 fans.
 {style="text-align: justify;"}
