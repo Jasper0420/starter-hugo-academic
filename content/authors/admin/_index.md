@@ -53,7 +53,7 @@ social:
     link: 'mailto:1015327941@qq.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://blog.csdn.net/muye_IT
   - icon: github
     icon_pack: fab
     link: https://github.com/Jasper0420
